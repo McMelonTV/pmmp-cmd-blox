@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/McMelonTV/pmmp-cmd-blox
+build-by-default: true
+branches:
+- main
+projects:
+  pmmp-cmd-blox:
+    path: ""
+...
