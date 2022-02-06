@@ -1,6 +1,6 @@
 name: CommandBlocks
 main: redstone\Main
 version: 1.0.0
-api: 3.6.0
+api: 4.0.7
 author: McMelonTV
 load: STARTUP
